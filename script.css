@@ -1,16 +1,26 @@
-var request = new XMLHttpRequest();
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
 
-request.open('GET', 'https://discord.com/api/guilds/729915854900428871/widget.json', true);
+h1 {
+  color: white;
+  text-align: center;
+}
 
-request.onload = function() {
-    if (request) {
-        var data = JSON.parse(request.responseText);
-        document.getElementById("discord-counter").innerHTML = data.presence_count;
-    } else {
-    }
-};
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
 
-request.onerror = function() {
-};
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
 
-request.send();
+</body>
+</html>
