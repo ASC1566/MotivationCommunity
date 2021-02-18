@@ -1,4 +1,4 @@
-## Welcome to Motivation Community webpage!
+# Welcome to Motivation Community webpage!
 
 What does this community do? How can we help you to motivate your during this pandamic ?
 
