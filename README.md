@@ -16,4 +16,18 @@ Welcome to our unique server Motivation community ! The creator Christine create
 https://discord.gg/ST5cbBw
 
 ### have a peak on inside:
-https://discord.com/channels/729915854900428871/729953301704998914
+
+request.open('GET', 'https://discord.com/api/guilds/729915854900428871/widget.json', true);
+
+request.onload = function() {
+    if (request) {
+        var data = JSON.parse(request.responseText);
+        document.getElementById("discord-counter").innerHTML = data.presence_count;
+    } else {
+    }
+};
+
+request.onerror = function() {
+};
+
+request.send();
