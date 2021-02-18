@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Motivation Community webpage!
 
 You can use the [editor on GitHub](https://github.com/ASC1566/MotivationCommunity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
