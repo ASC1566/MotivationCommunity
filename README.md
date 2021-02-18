@@ -14,3 +14,6 @@ Welcome to our unique server Motivation community ! The creator Christine create
 
 ### Discord Community: 
 https://discord.gg/ST5cbBw
+
+### have a peak on inside:
+https://discord.com/channels/729915854900428871/729953301704998914
