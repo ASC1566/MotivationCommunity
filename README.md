@@ -1,12 +1,17 @@
 ## Welcome to Motivation Community webpage!
 
-You can use the [editor on GitHub](https://github.com/ASC1566/MotivationCommunity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+What does this community do? How can we help you to motivate your during this pandamic ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### A bit of information
 
-### Markdown
+Welcome to our unique server Motivation community ! The creator Christine created this server to help students all across the globe.  Our aim is to help you to get motivated and meet new, nice friends ! These are some basic information about our server!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### We provide: 
+- Live study sessions
+- Private study sessions
+- We can provide you with some practice sheets, ensure if you really completed those.
+- Different competitions like Monthly study Challenge!
+
 
 ```markdown
 Syntax highlighted code block
