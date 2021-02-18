@@ -12,6 +12,8 @@ Welcome to our unique server Motivation community ! The creator Christine create
 - We can provide you with some practice sheets, ensure if you really completed those.
 - Different competitions like Monthly study Challenge!
 
+# Discord Community: 
+https://discord.gg/ST5cbBw
 
 ```markdown
 Syntax highlighted code block
